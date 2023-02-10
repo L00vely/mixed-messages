@@ -1,4 +1,4 @@
-#MIXED MESSAGES 
+# MIXED MESSAGES 
 Simple random messages generator created with Javascript
 ## Table of contents
 - [Table of contents](#table-of-contents)
